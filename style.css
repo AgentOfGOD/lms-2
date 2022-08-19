@@ -1,0 +1,79 @@
+.header {
+   height:200px;
+   padding:20px;
+   background: #deb243;
+   border:1px dashit #291f06;
+   border-radius:20px;
+   text-align: center;
+
+   
+}
+ 
+.h1 { 
+	font-size: 24px;
+}
+
+.link {
+	color: 
+	font-size: 16px;
+}
+.text {
+	font-size: 16px;
+}
+.link:hover {
+	color: #0046b0;
+	text-decoration: underline;
+}
+.feedback {
+	padding-bottom: 40px;
+}
+
+.form__button{
+	width: 400px;
+	background: black;
+	font-size: 14px;
+	padding: 10px;
+	border: 0;
+	color: white;
+}
+
+.container{
+	width: 960px;
+	margin: 50px auto;
+}
+.form__input {
+	display: block;
+	margin: auto;
+	margin-bottom: 10px;
+	width: 400px;
+	background: white;
+	border: 1px solid;
+	font-size: 14px;
+	padding: 10px 4px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
